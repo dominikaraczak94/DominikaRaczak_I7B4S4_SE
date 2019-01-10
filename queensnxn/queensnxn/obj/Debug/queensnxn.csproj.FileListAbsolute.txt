@@ -1,0 +1,7 @@
+C:\Users\raczaK\Documents\Studia\hetmany\queensnxn\queensnxn\obj\Debug\queensnxn.csprojAssemblyReference.cache
+C:\Users\raczaK\Documents\Studia\hetmany\queensnxn\queensnxn\obj\Debug\queensnxn.csproj.CoreCompileInputs.cache
+C:\Users\raczaK\Documents\Studia\hetmany\queensnxn\queensnxn\bin\Debug\queensnxn.exe.config
+C:\Users\raczaK\Documents\Studia\hetmany\queensnxn\queensnxn\bin\Debug\queensnxn.exe
+C:\Users\raczaK\Documents\Studia\hetmany\queensnxn\queensnxn\bin\Debug\queensnxn.pdb
+C:\Users\raczaK\Documents\Studia\hetmany\queensnxn\queensnxn\obj\Debug\queensnxn.exe
+C:\Users\raczaK\Documents\Studia\hetmany\queensnxn\queensnxn\obj\Debug\queensnxn.pdb
